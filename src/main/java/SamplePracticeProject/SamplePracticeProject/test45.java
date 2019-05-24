@@ -8,6 +8,10 @@ public class test45 {
 		System.out.println("HEllo WORLD");
 		System.out.println("HEllo WORLD");
 		System.out.println("HEllo WORLD");
+
+		System.out.println("HEllo WORLD");
+		System.out.println("HEllo WORLD");
+		
 	}
 	
 
